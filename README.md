@@ -1,5 +1,7 @@
 # LinearRegression_A2
 
-##Setup Steps:
-- Run to > source .venv/bin/active to initialise virtual enviroment.
-- Then run > pip install -r requirements.txt   to install the required libs.
+## Setup Steps:
+- Run the following to initialise virtual enviroment(On mac)
+   > source .venv/bin/active
+- Then run this to install the required libs.
+  > pip install -r requirements.txt
